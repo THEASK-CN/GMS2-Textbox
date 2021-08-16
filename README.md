@@ -1,7 +1,9 @@
+Asset package link in GameMaker Marketplace: <https://marketplace.yoyogames.com/assets/10090>
+
 This is an editor that integrates both single-line and multi-line modes. If you only need to use a single-line text editor, please click.
 
 This is an open source asset package that allows arbitrary use, modification and dissemination.
-Before introducing the asset pack, what you need to know is that due to the characteristics of GMS2, ​​when you enter characters other than basic Latin characters in the full screen state, the game will automatically switch to the window state. I have not found a solution for this.
+Before introducing the asset pack, what you need to know is that due to the characteristics of GMS2, when you enter characters other than basic Latin characters in the full screen state, the game will automatically switch to the window state. I have not found a solution for this.
 
 When using the textbox_create(); function, set the parameter "nowrap" to true and set the "adaptive_width" parameter to false to enable the single-line mode.
 
@@ -41,6 +43,8 @@ When using the textbox_create(); function, set the parameter "nowrap" to true an
 5. Press Ctrl + Shift + Home to select the cursor from the current position to the beginning of the full text.
 6. Press Ctrl + End to move the cursor to the end of the full text.
 7. Press Ctrl + Shift + End to select the cursor from the current position to the end of the full text.
+
+GameMaker市场中的资产包链接: <https://marketplace.yoyogames.com/assets/10090>
 
 这是一个整合了单行与多行两种模式的编辑器，如果你只需要使用单行文本编辑器，请点击。
 
