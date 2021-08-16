@@ -1,6 +1,6 @@
 Asset package link in GameMaker Marketplace: <https://marketplace.yoyogames.com/assets/10090>
 
-This is an editor that integrates both single-line and multi-line modes. If you only need to use a single-line text editor, please click.
+This is an editor that integrates both single-line and multi-line modes. If you only need to use a single-line text editor, please click <https://github.com/THEASK-CN/GMS2-Textbox-Single-Line>.
 
 This is an open source asset package that allows arbitrary use, modification and dissemination.
 Before introducing the asset pack, what you need to know is that due to the characteristics of GMS2, when you enter characters other than basic Latin characters in the full screen state, the game will automatically switch to the window state. I have not found a solution for this.
@@ -46,7 +46,7 @@ When using the textbox_create(); function, set the parameter "nowrap" to true an
 
 GameMaker市场中的资产包链接: <https://marketplace.yoyogames.com/assets/10090>
 
-这是一个整合了单行与多行两种模式的编辑器，如果你只需要使用单行文本编辑器，请点击。
+这是一个整合了单行与多行两种模式的编辑器，如果你只需要使用单行文本编辑器，请点击<https://github.com/THEASK-CN/GMS2-Textbox-Single-Line>。
 
 这是一个开源资产包，允许任意使用、修改和传播。
 在介绍该资产包之前，你需要知道的是，由于GMS2的特性，当你在全屏状态下输入除基本拉丁字符以外的字符时，游戏会自动切换为窗口状态，对此我目前没有找到解决方法。
